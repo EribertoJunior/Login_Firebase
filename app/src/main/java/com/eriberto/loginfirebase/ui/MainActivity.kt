@@ -1,7 +1,8 @@
-package com.eriberto.loginfirebase
+package com.eriberto.loginfirebase.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.eriberto.loginfirebase.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

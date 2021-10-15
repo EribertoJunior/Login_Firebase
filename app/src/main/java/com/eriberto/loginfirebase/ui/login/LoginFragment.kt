@@ -1,4 +1,4 @@
-package com.eriberto.loginfirebase.ui
+package com.eriberto.loginfirebase.ui.login
 
 import android.os.Bundle
 import android.view.LayoutInflater
