@@ -2,4 +2,12 @@
     <string name="app_name">Login Firebase</string>
     <string name="logo_qualquer">Logo qualquer</string>
     <string name="titleRegistrationFragmet">Cadastro</string>
+    <string name="login_button">Entrar</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google">Google</string>
+    <string name="email">Email</string>
 </resources>
